@@ -1,0 +1,16 @@
+torch
+torchaudio
+numpy
+pandas
+librosa
+soundfile
+websockets
+transformers
+phonemizer
+tensorboard
+matplotlib
+scipy
+PyYAML
+tqdm
+scikit-learn
+jupyter

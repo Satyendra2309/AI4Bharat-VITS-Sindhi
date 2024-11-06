@@ -1,0 +1,50 @@
+# Python 
+__pycache__/ 
+*.py[cod] 
+*$py.class 
+*.so 
+.Python 
+build/ 
+develop-eggs/ 
+dist/ 
+downloads/ 
+eggs/ 
+.eggs/ 
+lib/ 
+lib64/ 
+parts/ 
+sdist/ 
+var/ 
+wheels/ 
+*.egg-info/ 
+.installed.cfg 
+*.egg 
+# Virtual Environment 
+venv/ 
+ENV/ 
+# IDE 
+.idea/ 
+.vscode/ 
+*.swp 
+*.swo 
+# Notebooks 
+.ipynb_checkpoints 
+*.ipynb_checkpoints/ 
+# Data 
+data/ 
+*.wav 
+*.mp3 
+*.flac 
+*.tgz 
+*.tar.gz 
+# Models 
+models/ 
+*.pth 
+*.pt 
+*.ckpt 
+# Logs 
+logs/ 
+*.log 
+# OS 
+.DS_Store 
+Thumbs.db 
